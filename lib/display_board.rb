@@ -3,5 +3,5 @@
 board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
 
 def display_board(board)
-  print "#{board[0]"
+  print "#{board[0]}"
 end
